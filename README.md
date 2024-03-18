@@ -3,8 +3,8 @@
 Atualmente atuo como Desenvolvedor Full Stack com JavaScript
 
 #### Minhas linguagens atuais! 
-🌎 Front-end Web with Reactjs  
-📡 Back-end with Nodejs  
+🌎 Front-end Web with Reactjs and others frameworks js
+📡 Back-end with Nodejs with express.js 
 
 <div style='display: flex'>
   <a href="https://github.com/ramonpessoadev">
