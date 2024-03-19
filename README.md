@@ -3,7 +3,7 @@
 Atualmente atuo como Desenvolvedor Full Stack com JavaScript
 
 #### Minhas linguagens atuais! 
-🌎 Front-end Web with Reactjs and others frameworks js
+🌎 Front-end Web with Reactjs and others frameworks js <br>
 📡 Back-end with Nodejs with express.js 
 
 <div style='display: flex'>
